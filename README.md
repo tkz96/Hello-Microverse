@@ -2,12 +2,12 @@
 
 # Hello Microverse
 
-> Description the project.
+> This is the very first project that I worked on at Microverse which will help me establish a deep understanding of how to use Git and GitHub on a day-to-day basis.
 
 ## Built With
 
-- HTML
-- CSS
+- HTML 5
+- CSS 3
 - Elbow grease
 
 ## Getting Started
